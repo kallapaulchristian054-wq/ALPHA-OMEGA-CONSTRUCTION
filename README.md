@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/assets/main/logo.png" width="180">
+<img src="./logo.png" width="220" alt="ALPHA & OMEGA Construction"/>
 
 # 🏗️ ALPHA & OMEGA CONSTRUCTION
 
-### **Building Excellence • Engineering the Future**
+### **Réaliser vos rêves avec l'œil des spécialistes**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=2000&color=F59E0B&center=true&vCenter=true&width=800&lines=Innovation+%7C+Engineering+%7C+Construction;Building+Tomorrow+Today;Smart+Infrastructure+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=2000&color=F28C28&center=true&vCenter=true&width=850&lines=Construction+%7C+R%C3%A9habilitation+%7C+R%C3%A9novation;G%C3%A9nie+Civil+%7C+Piscines+Modernes;Innovation+%7C+Qualit%C3%A9+%7C+Excellence;Construire+l%27avenir+avec+vous.)
 
 <p>
 
-<img src="https://img.shields.io/badge/Innovation-BTP-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Construction-Excellence-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Engineering-Civil-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/G%C3%A9nie%20Civil-Innovation-black?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Smart-Buildings-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QHSE-Qualit%C3%A9-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Green-Construction-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Smart-Buildings-blue?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## Construire avec Excellence • Innover avec Passion
+### 🌍 Construire aujourd'hui, bâtir l'avenir.
 
-*"Nous créons des infrastructures durables qui façonnent le futur."*
+*"Chaque projet est une promesse de qualité, d'innovation et de durabilité."*
 
 </div>
 
@@ -32,243 +32,196 @@
 
 # 🌍 Qui sommes-nous ?
 
-ALPHA & OMEGA CONSTRUCTION est une entreprise de **Bâtiment et Travaux Publics (BTP)** spécialisée dans :
+ALPHA & OMEGA CONSTRUCTION est une entreprise de **Bâtiment et Travaux Publics (BTP)** qui accompagne les particuliers, les entreprises et les institutions dans la réalisation de leurs projets.
 
-🏢 Construction
-
-🏗 Génie Civil
-
-🌉 Travaux Publics
-
-🏘 Immobilier
-
-🌱 Construction Durable
-
-🤖 Smart Construction
-
-Notre ambition est de devenir un leader africain de la construction intelligente en intégrant les technologies numériques dans tous nos projets.
+Notre objectif est de proposer des infrastructures modernes, durables et conformes aux normes internationales.
 
 ---
 
-# 📊 Nos performances
+# 🚀 Nos domaines d'expertise
+
+| 🏗️ | Domaine |
+|------|----------|
+| 🏢 | Construction de bâtiments |
+| 🔨 | Réhabilitation |
+| 🎨 | Rénovation |
+| 🌉 | Génie Civil |
+| 🌴 | Aménagement extérieur |
+| 🏊 | Piscines modernes |
+| 📐 | Études et suivi de projets |
+
+---
+
+# 📊 Nos chiffres
 
 <div align="center">
 
-| 📈 Statistiques | Valeurs |
-|----------------|---------|
-| 🏗️ Projets réalisés | **350+** |
-| 👷 Clients satisfaits | **250+** |
-| 🌍 Villes couvertes | **40+** |
-| 🏢 Immeubles construits | **180+** |
-| 🛣️ Routes réalisées | **750 km** |
-| 🌉 Ponts | **62** |
-| ⭐ Satisfaction | **99 %** |
-| 📅 Respect des délais | **97 %** |
+| 📈 Indicateur | Valeur |
+|--------------|--------|
+| 🏗️ Projets réalisés | **50+** |
+| 😊 Clients satisfaits | **95+** |
+| 📅 Expérience | **10 ans** |
+| ⭐ Satisfaction client | **100 %** |
+| 🛠️ Accompagnement | **De l'étude à la livraison** |
 
 </div>
 
 ---
 
-# 🏢 Domaines d'expertise
+# ⭐ Pourquoi collaborer avec nous ?
 
-<table>
-<tr>
+✅ Expertise qualifiée
 
-<td width="33%" align="center">
+✅ Respect des délais
 
-## 🏗 Construction
+✅ Contrôle qualité rigoureux
 
-Résidences
+✅ Accompagnement personnalisé
 
-Immeubles
+✅ Solutions innovantes
 
-Hôtels
-
-Centres commerciaux
-
-Industries
-
-</td>
-
-<td width="33%" align="center">
-
-## 🌉 Génie Civil
-
-Ponts
-
-Routes
-
-Barrages
-
-Fondations
-
-Structures
-
-</td>
-
-<td width="33%" align="center">
-
-## 🌍 Urbanisme
-
-Voiries
-
-Réseaux
-
-Assainissement
-
-Hydraulique
-
-Aménagement
-
-</td>
-
-</tr>
-</table>
+✅ Matériaux de qualité
 
 ---
 
-# 🚀 Nos projets
+# ⚙️ Notre processus de travail
 
-## 🏢 Construction
+```text
+📌 1. Étude du projet
+   Analyse des besoins
+   Visite du site
 
-| Projet | Description |
-|---------|-------------|
-| 🏢 Alpha Tower | Tour intelligente |
-| 🏘 Green Village | Quartier écologique |
-| 🏨 Prestige Hotel | Hôtel 5 étoiles |
+        ↓
 
-➡️ https://github.com/alphaomega-construction/buildings
+📐 2. Conception
+   Plans architecturaux
+   Études techniques
 
----
+        ↓
 
-## 🌉 Génie Civil
+💰 3. Chiffrage
+   Devis détaillé
+   Budget transparent
 
-| Projet | Description |
-|---------|-------------|
-| Omega Bridge | Pont métallique |
-| Smart Highway | Autoroute intelligente |
-| Aqua Project | Réseau hydraulique |
+        ↓
 
-➡️ https://github.com/alphaomega-construction/civil-engineering
+🏗️ 4. Exécution
+   Suivi rigoureux
+   Contrôle permanent
 
----
+        ↓
 
-## 🤖 Smart Construction
-
-| Projet | Description |
-|---------|-------------|
-| BIM Platform | Gestion BIM |
-| Drone Survey | Cartographie Drone |
-| Smart Monitoring | IoT Chantier |
-| AI Cost Estimator | IA Estimation |
-
-➡️ https://github.com/alphaomega-construction/innovation
+🏆 5. Livraison
+   Contrôle qualité
+   Projet clé en main
+```
 
 ---
 
-# 💡 Innovation
+# 💡 Innovation & Technologies
 
-Nous intégrons les technologies les plus avancées du secteur.
+Nous intégrons les meilleures technologies pour garantir la qualité et la performance de nos réalisations.
 
-| Technologie | Utilisation |
+| 🚀 Innovation | Description |
 |--------------|-------------|
-| 🤖 Intelligence Artificielle | Estimation & planification |
-| 🛰️ Drone | Cartographie |
-| 🏗 BIM | Maquette numérique |
-| 🌍 GIS | Analyse géospatiale |
-| 📡 IoT | Chantier connecté |
-| ☁ Cloud | Collaboration |
-| 📊 Power BI | Reporting |
-| 🧠 Machine Learning | Analyse prédictive |
+| 🏗️ Modélisation 3D | Visualisation réaliste des projets |
+| 🥽 Visites virtuelles | Immersion avant construction |
+| 📱 Suivi numérique | Pilotage intelligent des chantiers |
+| 🚁 Imagerie Drone | Inspection et suivi aérien |
+| 📊 Gestion optimisée des coûts | Planification et maîtrise budgétaire |
 
 ---
 
-# ⚙ Stack Technologique
+# 🌍 Vision 2030
 
-## Génie Civil
+Notre ambition est de devenir une référence du BTP en Afrique et à l'international grâce à :
 
-```text
-AutoCAD
-Revit
-Civil 3D
-Tekla
-ETABS
-Robot Structural
-SAP2000
-```
+🌱 Construction durable
 
-## Développement
+🏢 Smart Buildings
 
-```text
-Python
-JavaScript
-TypeScript
-React
-Next.js
-Node.js
-Flutter
-```
+📐 BIM (Building Information Modeling)
 
-## Cloud
+🖥️ Modélisation 3D
 
-```text
-AWS
-Azure
-Docker
-Kubernetes
-```
+⚡ Énergies renouvelables
+
+🌍 Innovation continue
 
 ---
 
-# 📈 Notre impact
+# 🏢 Nos réalisations
 
-```text
-🏗️ Projets
+## 🏘️ Construction
 
-█████████████████████████████████ 350+
-```
+- Villas haut de gamme
+- Immeubles résidentiels
+- Bâtiments commerciaux
+- Espaces professionnels
 
-```text
-😊 Satisfaction
-
-████████████████████████████████ 99%
-```
-
-```text
-⏱ Délais
-
-███████████████████████████████ 97%
-```
-
-```text
-🌱 Construction Durable
-
-█████████████████████████████ 100%
-```
+➡️ https://github.com/AlphaOmegaConstruction/projets-construction
 
 ---
 
-# 🌍 Nos réalisations
+## 🏊 Piscines Modernes
 
-✅ Tours
+- Piscines à débordement
+- Piscines résidentielles
+- Espaces détente
 
-✅ Villas
+➡️ https://github.com/AlphaOmegaConstruction/piscines
 
-✅ Universités
+---
 
-✅ Hôpitaux
+## 🌉 Génie Civil
 
-✅ Routes
+- Voiries
+- Fondations
+- Réseaux divers
+- Ouvrages techniques
 
-✅ Ponts
+➡️ https://github.com/AlphaOmegaConstruction/genie-civil
 
-✅ Barrages
+---
 
-✅ Voiries
+## 🎨 Réhabilitation & Rénovation
 
-✅ Zones industrielles
+- Modernisation de bâtiments
+- Valorisation immobilière
+- Réhabilitation complète
 
-✅ Centres commerciaux
+➡️ https://github.com/AlphaOmegaConstruction/rehabilitation
+
+---
+
+# 📸 Portfolio
+
+📷 Découvrez quelques-unes de nos réalisations :
+
+🏡 Villas contemporaines
+
+🏢 Immeubles
+
+🏊 Piscines modernes
+
+🌴 Aménagements extérieurs
+
+🌉 Génie civil
+
+➡️ https://github.com/AlphaOmegaConstruction/portfolio
+
+---
+
+# 👷 Notre équipe
+
+| Fonction |
+|-----------|
+| 👨‍💼 Directeur Général |
+| 👷 Conducteur des Travaux |
+| 🏛️ Architecte |
+| 👷‍♂️ Ingénieur Génie Civil |
+| 🦺 Responsable QHSE |
+| 💼 Comptable |
 
 ---
 
@@ -276,92 +229,60 @@ Kubernetes
 
 > ⭐⭐⭐⭐⭐
 >
-> "ALPHA & OMEGA CONSTRUCTION est un partenaire fiable qui a su respecter nos exigences de qualité et de délai."
->
-> **— Directeur de projet**
+> *"Une équipe très professionnelle qui respecte ses engagements et les délais."*
 
 ---
 
 > ⭐⭐⭐⭐⭐
 >
-> "Une équipe innovante, compétente et très professionnelle."
->
-> **— Promoteur immobilier**
+> *"Le suivi du chantier a été remarquable du début jusqu'à la livraison."*
 
 ---
 
 > ⭐⭐⭐⭐⭐
 >
-> "Leur expertise BIM et leur approche numérique ont considérablement optimisé notre chantier."
->
-> **— Bureau d'études**
+> *"Des solutions innovantes et un accompagnement personnalisé."*
 
 ---
 
-# 🤝 Nos partenaires
+# 📈 Nos engagements
 
-🏦 Institutions
+🟠 Excellence
 
-🏢 Promoteurs immobiliers
+⚫ Qualité
 
-🏛 Collectivités
+🟠 Innovation
 
-🏭 Industries
+⚫ Respect des délais
 
-🌍 Organisations internationales
+🟠 Satisfaction client
 
----
+⚫ Sécurité
 
-# 🌱 Nos engagements
-
-🟢 Qualité
-
-🟢 Innovation
-
-🟢 Développement Durable
-
-🟢 Sécurité
-
-🟢 Respect des normes
-
-🟢 Satisfaction Client
-
-🟢 Excellence
+🟠 Développement durable
 
 ---
 
-# 📈 GitHub
+# 📬 Contact
 
-<p align="center">
+📍 **Côte d'Ivoire**
 
-<img src="https://github-readme-stats.vercel.app/api?username=alphaomega-construction&show_icons=true&theme=tokyonight"/>
+📧 **Alphaetomegaconstruction@gmail.com**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alphaomega-construction&theme=tokyonight"/>
+📞 **+225 07 09 92 82 93**
 
-</p>
-
----
-
-# 📫 Contact
-
-📍 Côte d'Ivoire
-
-📧 contact@alphaomega-construction.com
-
-🌐 https://www.alphaomega-construction.com
-
-📞 +225 XX XX XX XX XX
+📞 **+225 07 79 19 00 62**
 
 ---
 
 <div align="center">
 
-## Construisons le futur, ensemble.
+# 🤝 Construisons ensemble vos plus grandes ambitions.
+
+## ALPHA & OMEGA CONSTRUCTION
+
+### *Réaliser vos rêves avec l'œil des spécialistes.*
 
 ⭐ Merci de visiter notre portfolio GitHub.
-
-**ALPHA & OMEGA CONSTRUCTION**
-
-*Engineering Tomorrow.*
 
 </div>
